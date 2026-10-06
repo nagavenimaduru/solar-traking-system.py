@@ -1,1 +1,0 @@
-# solar-traking-system.py
